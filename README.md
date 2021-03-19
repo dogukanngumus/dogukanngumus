@@ -7,7 +7,7 @@
 
 - :computer: I'm a Back-End Developer
 
-- 🌱 I’m currently learning **.Net Core**
+- 🌱 I’m currently learning **Cyber Security and .Net Core Development**
 
 - 🎓 I'm a Management Information Systems student (graduating in 2021)
 
