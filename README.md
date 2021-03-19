@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.Net Core**
 
-- 🎓 I'm a Computer Science student (graduating in 2021)
+- 🎓 I'm a Management Information Systems student (graduating in 2021)
 
 - 📝 I regularly write (Turkish) articles on [http://bilgisayargunlugum.com/](http://bilgisayargunlugum.com/)
 
