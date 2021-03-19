@@ -36,6 +36,6 @@
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dogukanngumus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dogukangumus&show_icons=true&count_private=true&hide=" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dogukanngumus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dogukanngumus&show_icons=true&count_private=true&hide=" /></a>
 <!--START_SECTION:activity-->
 
