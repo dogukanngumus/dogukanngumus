@@ -18,10 +18,7 @@
 
 ## 👨‍💻 Languages and Tools:
 ![CSharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=C-sharp&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-007396?logo=Java&style=flat-square)
-![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&style=flat-square&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&style=flat-square&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![MySQL](https://img.shields.io/badge/-MySql-4479A1?logo=MySQL&style=flat&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
