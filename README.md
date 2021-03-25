@@ -30,6 +30,75 @@
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 31 Contributions in the Year 2021
+ > 
+> 📦 17.3 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    1 commits      ████████████░░░░░░░░░░░░░   50.0% 
+🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌙 Night      1 commits      ████████████░░░░░░░░░░░░░   50.0%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    2 commits      █████████████████████████   100.0% 
+Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Other                    23 hrs 25 mins      █████████████████████████   100.0%
+
+🔥 Editors: 
+Browser                  23 hrs 25 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+Unknown Project          23 hrs 25 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  23 hrs 25 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in C#** 
+
+```text
+C#                       5 repos             █████████████████████████   100.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/dogukanngumus/dogukanngumus/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
