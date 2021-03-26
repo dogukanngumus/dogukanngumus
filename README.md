@@ -1,7 +1,7 @@
 <h3 align="center"><img width="30%" src="https://i.ibb.co/6DXgTgD/Developer-activity-bro.png"></h3>
 
 <h3 align="center">Hello, I'm Doğukan Gümüş</h3>
-<h4 align="center">A passionate Back-End Development</h3>
+<h4 align="center">A passionate Back-End Developer</h3>
 
 ## 📖 About me
 
