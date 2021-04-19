@@ -1,13 +1,13 @@
 <h3 align="center"><img width="30%" src="https://i.ibb.co/6DXgTgD/Developer-activity-bro.png"></h3>
 
-<h3 align="center">Hello, I'm Doğukan Gümüş</h3>
-<h4 align="center">A passionate Cyber Security Student</h3>
+<h3 align="center">Hello, I'm Dogukan Gumus</h3>
+<h4 align="center">A passionate Backend Developer</h3>
 
 ## 📖 About me
 
-- :computer: I'm a Cyber Security Student
+- :computer: I'm a Management Information Systems Student
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **.Net Backend Development**
 
 - 🎓 I'm a Management Information Systems student (graduating in 2021)
 
