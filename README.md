@@ -11,7 +11,7 @@
 
 - 🎓 I'm a Management Information Systems student (graduating in 2021)
 
-- 📝 I regularly write (Turkish) articles on [http://bilgisayargunlugum.com/](http://bilgisayargunlugum.com/)
+- 📝 I regularly write (Turkish) articles on [https://dogukanngumus.medium.com/](https://dogukanngumus.medium.com/)
 
 - 📫 How to reach me **dogukanngumus@gmail.com**
 
