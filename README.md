@@ -5,7 +5,7 @@
 
 ## 📖 About me
 
-- :computer: I'm a Management Information Systems Student
+- :computer: I'm a Junior Backend Developer At Apsiyon
 
 - 🌱 I’m currently learning **.Net Backend Development**
 
