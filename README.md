@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.Net Backend Development**
 
-- 🎓 I'm a Management Information Systems student (graduating in 2021)
+- 🎓 I'm a Management Information Systems graduate.
 
 - 📝 I regularly write (Turkish) articles on [https://dogukanngumus.medium.com/](https://dogukanngumus.medium.com/)
 
