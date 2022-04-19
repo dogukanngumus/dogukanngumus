@@ -30,13 +30,13 @@
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 3 Contributions in the Year 2022
  > 
-> 📦 50.2 kB Used in GitHub's Storage 
+> 📦 49.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,7 +99,7 @@ C#                       4 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/dogukanngumus/dogukanngumus/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/04/2022 00:30:42 UTC
+ Last Updated on 19/04/2022 00:29:31 UTC
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
