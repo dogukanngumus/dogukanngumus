@@ -36,7 +36,7 @@
 
 > 🏆 3 Contributions in the Year 2022
  > 
-> 📦 49.8 kB Used in GitHub's Storage 
+> 📦 49.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,7 +99,7 @@ C#                       4 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/dogukanngumus/dogukanngumus/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/04/2022 00:29:31 UTC
+ Last Updated on 20/04/2022 00:30:21 UTC
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
