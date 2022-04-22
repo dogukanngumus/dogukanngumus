@@ -30,7 +30,7 @@
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -99,7 +99,7 @@ C#                       4 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/dogukanngumus/dogukanngumus/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/04/2022 00:30:21 UTC
+ Last Updated on 22/04/2022 00:32:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
