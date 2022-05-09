@@ -32,19 +32,19 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3 Contributions in the Year 2022
+> 🏆 35 Contributions in the Year 2022
  > 
 > 📦 49.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 6 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 0 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -101,7 +101,7 @@ C#                       5 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/dogukanngumus/dogukanngumus/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/05/2022 00:29:53 UTC
+ Last Updated on 09/05/2022 00:30:31 UTC
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
