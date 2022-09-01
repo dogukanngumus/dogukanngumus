@@ -101,7 +101,7 @@ C#                       7 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/dogukanngumus/dogukanngumus/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2022 00:45:26 UTC
+ Last Updated on 01/09/2022 00:34:48 UTC
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
