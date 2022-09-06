@@ -30,7 +30,7 @@
 ## 📈 Github Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,6 +46,48 @@
  > 
 > 🔑 0 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+🌃 Evening    28 commits     ██████████████████░░░░░░░   73.68% 
+🌙 Night      6 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.79%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
+Tuesday      6 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+Wednesday    3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
+Thursday     3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
+Friday       18 commits     ███████████░░░░░░░░░░░░░░   47.37% 
+Saturday     4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+Sunday       3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -59,7 +101,7 @@ C#                       7 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/dogukanngumus/dogukanngumus/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 00:42:36 UTC
+ Last Updated on 06/09/2022 00:41:21 UTC
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
