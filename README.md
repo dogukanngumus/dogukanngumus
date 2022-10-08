@@ -91,7 +91,8 @@ No Activity Tracked This Week
 **I Mostly Code in C#** 
 
 ```text
-C#                       7 repos             █████████████████████████   100.0%
+C#                       7 repos             ██████████████████████░░░   87.5% 
+Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 
 ```
 
@@ -101,7 +102,7 @@ C#                       7 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/dogukanngumus/dogukanngumus/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/10/2022 00:56:51 UTC
+ Last Updated on 08/10/2022 00:41:27 UTC
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
